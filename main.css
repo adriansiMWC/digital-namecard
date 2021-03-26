@@ -150,7 +150,7 @@ img.profile-pic {
 }
 
 .text-title-company {
-    font-family: 'Avenir Black';
+    font-family: 'Lato', sans-serif;
     font-weight: 200;
     color: #333333;
     font-size: 12px;
@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #0075AB;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
