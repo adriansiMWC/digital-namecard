@@ -1,4 +1,4 @@
-html,
+ahtml,
 body {
   height: 100%;
   width: 100%;
@@ -150,7 +150,7 @@ img.profile-pic {
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Avenir Black';
     font-weight: 200;
     color: #333333;
     font-size: 12px;
